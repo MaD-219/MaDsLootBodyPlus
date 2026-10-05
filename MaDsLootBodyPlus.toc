@@ -1,0 +1,7 @@
+## Interface: 120100
+## Title: MaDsLootBodyPlus
+## Notes: Automatically accepts summons and resurrections after 10 seconds, with an auto-pass loot option.
+## Author: mad21
+## Version: 1.0.0
+
+MaDsLootBodyPlus.lua

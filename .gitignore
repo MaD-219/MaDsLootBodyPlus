@@ -1,0 +1,25 @@
+# Operating System Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+$RECYCLE.BIN/
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Release and Packaging Artifacts
+*.zip
+.release/
+
+# Temporary / Log files
+*.log
+
+# Assistant & Local Documentation
+gemini.md
+GEMINI.md

@@ -1,0 +1,7 @@
+package-as: MaDsLootBodyPlus
+
+ignore:
+  - .github
+  - .gitignore
+  - .pkgmeta
+  - gemini.md
